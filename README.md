@@ -1,9 +1,3 @@
-Here is your **clean, properly formatted GitHub README script**. You can **copy and paste this directly into `README.md`**.
-
-The main fix is the **Dashboard Preview section**, which must use **GitHub image links instead of your computer path**.
-
----
-
 # 🏥 Axon Healthcare Analysis
 
 ### Healthcare Data Analytics Dashboard (Excel | SQL | Power BI | Tableau)
@@ -182,18 +176,6 @@ Then use this code:
 
 ---
 
-# 📁 Project Files
-
-| File                            | Description                         |
-| ------------------------------- | ----------------------------------- |
-| `axon_healthcare_analysis.sql`  | SQL queries for healthcare analysis |
-| `Healthcare Dataset.xlsx`       | Cleaned dataset used for analysis   |
-| `Healthcare Dashboard.pbix`     | Power BI dashboard                  |
-| `Healthcare Dashboard.twbx`     | Tableau dashboard                   |
-| `AXON Healthcare Analysis.pptx` | Project presentation                |
-
----
-
 # 🎯 Conclusion
 
 This project demonstrates how **data analytics can improve healthcare decision-making** by identifying patterns in patient data, treatment costs, and departmental performance.
@@ -208,7 +190,7 @@ Using analytics tools and dashboards, hospitals can **optimize operations, impro
 Aspiring **Data Analyst**
 
 **Skills**
-SQL • Python • Excel • Tableau • Power BI • Data Visualization
+SQL • Excel • Tableau • Power BI • Data Visualization
 
 ⭐ If you find this project helpful, consider **starring the repository**!
 
