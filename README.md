@@ -149,19 +149,6 @@ Plan staffing levels based on seasonal admission patterns.
 
 # 📊 Dashboard Preview
 
-⚠ Upload screenshots in a folder named **screenshots** inside your repository.
-
-```
-axon-healthcare-analysis
-│
-├── screenshots
-│   ├── excel-dashboard.png
-│   ├── powerbi-dashboard.png
-│   └── tableau-dashboard.png
-```
-
-Then use this code:
-
 ### Excel Dashboard
 
 ![Excel Dashboard](excel-dashboard.png)
